@@ -4,7 +4,7 @@
 
 Keyboard Maintainer: [TreasureTreasure](https://github.com/TreasureTreasure)  
 Hardware Supported: Treasure TYPE-9 Series II 
-Hardware Availability: [Treasure](http://treasuretypes.com)   
+Hardware Availability: [Treasure website](http://treasuretypes.com)   
 
 Make example for this keyboard (after setting up your build environment):
 
