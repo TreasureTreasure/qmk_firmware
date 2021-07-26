@@ -1,10 +1,10 @@
 # Treasure TYPE-9 Series II
 
-3x3 Macropad.
+Treasure TYPE-9 Series II is a 3x3 Macropad.
 
-Keyboard Maintainer: [Treasure](https://github.com/TreasureTreasure)  
-Hardware Supported: Treasure TYPE-9 Series II 
-Hardware Availability: [Treasure website](http://treasuretypes.com)   
+Keyboard Maintainer: [Treasure](https://github.com/TreasureTreasure)    
+Hardware Supported: Treasure TYPE-9 Series II PCB    
+Hardware Availability: [Treasure store](http://treasuretypes.com)    
 
 Make example for this keyboard (after setting up your build environment):
 
