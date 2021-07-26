@@ -2,7 +2,7 @@
 
 3x3 Macropad.
 
-Keyboard Maintainer: [TreasureTreasure](https://github.com/TreasureTreasure)  
+Keyboard Maintainer: [Treasure](https://github.com/TreasureTreasure)  
 Hardware Supported: Treasure TYPE-9 Series II 
 Hardware Availability: [Treasure website](http://treasuretypes.com)   
 
